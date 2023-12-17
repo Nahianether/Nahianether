@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nahianethe](https://github.com/Nahianethe)
+- 👨‍💻 All of my projects are available at [https://github.com/Nahianethe](https://github.com/Nahianethe](https://github.com/Nahianether?tab=repositories))
 
 - 💬 Ask me about **Flutter, Dart, Java, OOP**
 
