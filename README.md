@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Algorithm Generation](https://www.algorithmgeneration.com/)
 
-- 🌱 I’m currently learning **Rust, gRPC**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
