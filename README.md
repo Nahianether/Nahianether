@@ -10,9 +10,9 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nahianethe](https://github.com/Nahianethe](https://github.com/Nahianether?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/Nahianether](https://github.com/Nahianether?tab=repositories](https://github.com/Nahianether?tab=repositories))
 
-- 💬 Ask me about **Flutter, Dart, Java, OOP**
+- 💬 Ask me about **Flutter, Dart, Rust, C++, Java, OOP**
 
 - 📫 How to reach me **nahianether3@gmail.com**
 
