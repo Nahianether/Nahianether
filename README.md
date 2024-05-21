@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **nahianether3@gmail.com**
 
-- 📄 Know about my experiences [https://sites.google.com/view/intisharulislam/resume](https://sites.google.com/view/intisharulislam/resume)
+- 📄 Know about my experiences [https://nahianether.github.io/](https://nahianether.github.io/)
 
 - ⚡ Fun fact **I think i am funny, let me know your opinion...**
 
