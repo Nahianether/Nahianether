@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahianether&label=Profile%20views&color=0e75b6&style=flat" alt="nahianether" /> </p>
 
-- 🔭 I’m currently working on [Algorithm Generation](https://www.algorithmgeneration.com/)
+- 🔭 I’m currently working on [Akij iBos](https://www.ibos.io/)
 
 - 🌱 I’m currently learning **Rust**
 
@@ -16,9 +16,9 @@
 
 - 📫 How to reach me **nahianether3@gmail.com**
 
-- 📄 Know about my experiences [https://nahianether.github.io/](https://nahianether.github.io/)
+- 📄 Know about my experiences [portfolio.int8bit.xyz](https://portfolio.int8bit.xyz/)
 
-- ⚡ Fun fact **I think i am funny, let me know your opinion...**
+- ⚡ Fun fact - **I think i am funny, let me know your opinion...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
