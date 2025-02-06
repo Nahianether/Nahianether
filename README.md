@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Intishar-Ul Islam</h1>
-<h3 align="center">Flutter developer from Bangladesh</h3>
+<h3 align="center">Flutter and Rust developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahianether&label=Profile%20views&color=0e75b6&style=flat" alt="nahianether" /> </p>
 
 - 🔭 I’m currently working on [Akij iBos](https://www.ibos.io/)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust and AI**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
