@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [portfolio.int8bit.xyz](https://portfolio.int8bit.xyz/)
 
-- ⚡ Fun fact - **I think i am funny, let me know your opinion...**
+- ⚡ Fun fact - **I think I am funny, let me know your opinion...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
