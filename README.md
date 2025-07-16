@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **nahianether3@gmail.com**
 
-- 📄 Know about my experiences [portfolio.int8bit.xyz](https://portfolio.int8bit.xyz/)
+- 📄 Know about my experiences [intishar.xyz](https://intishar.xyz/)
 
 - ⚡ Fun fact - **I think I am funny, let me know your opinion...**
 
