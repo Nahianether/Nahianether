@@ -141,9 +141,6 @@ Passionate **Flutter & Rust Developer** with a strong foundation in mobile devel
   <img src="https://streak-stats.demolab.com/?user=nahianether&theme=tokyonight" alt="nahianether" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nahianether&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=7" alt="nahianether" />
-</div>
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
