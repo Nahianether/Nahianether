@@ -134,7 +134,7 @@ Passionate **Flutter & Rust Developer** with a strong foundation in mobile devel
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nahianether&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nahianether&layout=compact&langs_count=8&theme=tokyonight&hide=html,css,javascript,ruby,cmake,kotlin,swift,objective-c,tsql,hack,shell,dockerfile,makefile,tex"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nahianether&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,javascript,ruby,cmake,kotlin,swift,objective-c,tsql,hack,shell,dockerfile,makefile,tex&include_all_commits=true"/>
 </div>
 
 <div align="center">
