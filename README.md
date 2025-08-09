@@ -3,7 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Nahianether/Nahianether/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nahianether/nahianether/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nahianether/nahianether/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nahianether/nahianether/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -40,25 +44,6 @@ Passionate **Flutter & Rust Developer** with a strong foundation in mobile devel
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Nahianether/pattern">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahianether&repo=pattern&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Nahianether/personal_manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahianether&repo=personal_manager&theme=tokyonight" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Nahianether/rust_flutter_ffi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahianether&repo=rust_flutter_ffi&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Nahianether/github_repository_explorer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahianether&repo=github_repository_explorer&theme=tokyonight" />
-  </a>
-</div>
 
 ## 🤝 Connect With Me
 
@@ -134,16 +119,16 @@ Passionate **Flutter & Rust Developer** with a strong foundation in mobile devel
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nahianether&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nahianether&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahianether&layout=compact&langs_count=8&theme=tokyonight&hide=html,css,javascript,ruby,cmake,kotlin,swift,objective-c,tsql,hack,shell,dockerfile,makefile"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahianether&theme=tokyonight" alt="nahianether" />
+  <img src="https://streak-stats.demolab.com/?user=nahianether&theme=tokyonight" alt="nahianether" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nahianether&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="nahianether" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nahianether&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=7" alt="nahianether" />
 </div>
 
 ### ⚡ Recent Activity
