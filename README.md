@@ -28,7 +28,9 @@
 
 - 📄 Know about my experiences [intishar.xyz](https://intishar.xyz/)
 
-- ⚡ Fun fact - **I debug code faster with coffee ☕ and solve problems better under pressure!**
+- 💬 You can check out my learning Portal here [learning.intishar.xyz](https://learning.intishar.xyz/)
+
+- ⚡ Fun fact - **I debug code faster with coffee ☕ and solve problems better under pressure [Note: Without any interruptions :D]!**
 
 ---
 
