@@ -32,53 +32,60 @@
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📋 Personal Manager + Rust Backend</h3>
-      <p>Personal finance & task management suite — Flutter mobile/desktop client paired with a Rust backend. SQLite storage, Excel/PDF export, offline-first.</p>
-      <p><b>Stack:</b> Flutter · Rust · SQLite</p>
-      <p>
-        <a href="https://github.com/Nahianether/personal_manager">📱 Client</a> ·
-        <a href="https://github.com/Nahianether/personal_manager_backend">⚙️ Backend</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🦀 Rust ↔ Flutter FFI</h3>
-      <p>Working examples of Dart FFI bindings to Rust — production-grade patterns for performance-critical mobile code without sacrificing Flutter ergonomics.</p>
-      <p><b>Stack:</b> Dart FFI · Rust · cdylib</p>
-      <p><a href="https://github.com/Nahianether/rust_flutter_ffi">Repository →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎨 Pattern — Flutter Template</h3>
-      <p>Production-ready Flutter starter with custom components, reusable widgets, and architectural patterns I use across client projects.</p>
-      <p><b>Stack:</b> Flutter · Dart</p>
-      <p><a href="https://github.com/Nahianether/pattern">Repository →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧹 TidyMac</h3>
-      <p>Rust-powered macOS system cleanup CLI — fast, native, single binary. Surfaces stale caches, build artifacts, and oversized files.</p>
-      <p><b>Stack:</b> Rust · CLI</p>
-      <p><a href="https://github.com/Nahianether/tidymac">Repository →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📞 Dart SIP UA</h3>
-      <p>SIP user-agent library for Dart — foundation for Flutter-based VoIP / calling apps. Ties to my enterprise iDialer work.</p>
-      <p><b>Stack:</b> Dart · SIP · WebRTC</p>
-      <p><a href="https://github.com/Nahianether/dart-sip-ua">Repository →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📝 README Generator (Rust)</h3>
-      <p>Rust CLI that scaffolds structured GitHub README files for new projects — born out of writing the same boilerplate too many times.</p>
-      <p><b>Stack:</b> Rust · CLI</p>
-      <p><a href="https://github.com/Nahianether/readme_file_generate_for_github">Repository →</a></p>
-    </td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>⏱️ TimeAtlas</h3>
+        <p>Personal, local-only time-awareness desktop app — quietly tracks active-window usage on your machine and
+  shows a clean daily summary. No cloud, no surveillance.</p>
+        <p><b>Stack:</b> Rust · Tauri 2 · React · SQLite</p>
+        <p><a href="https://github.com/Nahianether/rust-tauri-activity-monitor">Repository →</a></p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🏢 Axum Multi-tenant Starter</h3>
+        <p>Production-ready multi-tenant SaaS API starter — JWT auth, workspace-scoped data isolation, sqlx-checked
+  queries, structured error handling. The boring 70% so you can focus on domain logic.</p>
+        <p><b>Stack:</b> Rust · Axum 0.7 · Postgres · sqlx</p>
+        <p><a href="https://github.com/Nahianether/rust-axum-multitenant-starter">Repository →</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🔌 Flutter ⇄ Rust gRPC Demo</h3>
+        <p>Working reference for Flutter talking to a Rust backend over gRPC — tonic server with unary + streaming
+  primitives, Flutter client, strongly-typed protobuf contracts on both sides.</p>
+        <p><b>Stack:</b> Flutter · Rust · tonic · protobuf</p>
+        <p><a href="https://github.com/Nahianether/flutter-rust-grpc-demo">Repository →</a></p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🦀 Rust ↔ Flutter FFI</h3>
+        <p>Working examples of Dart FFI bindings to Rust — production-grade patterns for performance-critical mobile
+   code without sacrificing Flutter ergonomics. Complements the gRPC demo (FFI for in-process, gRPC for separated
+  service).</p>
+        <p><b>Stack:</b> Dart FFI · Rust · cdylib</p>
+        <p><a href="https://github.com/Nahianether/rust_flutter_ffi">Repository →</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>📋 Personal Manager + Rust Backend</h3>
+        <p>Personal finance & task management suite — Flutter mobile/desktop client paired with a Rust backend.
+  SQLite storage, Excel/PDF export, offline-first.</p>
+        <p><b>Stack:</b> Flutter · Rust · SQLite</p>
+        <p>
+          <a href="https://github.com/Nahianether/personal_manager">📱 Client</a> ·
+          <a href="https://github.com/Nahianether/personal_manager_backend">⚙️ Backend</a>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🧹 TidyMac</h3>
+        <p>Rust-powered macOS system cleanup CLI — fast, native, single binary. Surfaces stale caches, build
+  artifacts, and oversized files.</p>
+        <p><b>Stack:</b> Rust · CLI</p>
+        <p><a href="https://github.com/Nahianether/tidymac">Repository →</a></p>
+      </td>
+    </tr>
+  </table>
 
 > 💡 The bulk of my production work — including a Rust + Tauri endpoint-monitoring platform on **~1,030 deployments**, a Rust gRPC supplier-aggregation engine that cut latency from **20–30s to 4–12s**, and a Flutter ride-sharing app with **500K+ Play Store downloads** — lives in private enterprise repositories. Architecture and outcome details are in my [resume](https://intishar.xyz/) / on request.
 
