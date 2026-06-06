@@ -157,13 +157,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nahianether&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nahianether&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&hide=html,css,scss,jupyter%20notebook,tex&card_width=400" />
-</div>
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nahianether&show_icons=tru
+  e&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true" />
+    <img height="180"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nahianether&layout=compact&langs_co
+  unt=8&theme=tokyonight&hide_border=true&hide=html,css,scss,jupyter%20notebook,tex,tsql,sql,plpgsql,procfile,docker
+  file,makefile,shell,batchfile,roff,objective-c,kotlin,swift&size_weight=0.5&count_weight=0.5&card_width=400" />
+  </div>
 
-<div align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=nahianether&theme=tokyonight&hide_border=true" alt="streak stats" />
-</div>
+  <div align="center">
+    <img height="180" src="https://streak-stats.demolab.com/?user=nahianether&theme=tokyonight&hide_border=true"
+  alt="streak stats" />
+  </div>
 
 ---
 
